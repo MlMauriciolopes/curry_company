@@ -83,9 +83,9 @@ Cada visão é representada pelo seguinte conjunto de métricas.
 
 # 4. Top 3 Insights de dados
 
-    A sazonalidade da quantidade de pedidos é diária. Há uma variação de aproximadamente 10% do número de pedidos em dia sequenciais.
-    As cidades do tipo Semi-Urban não possuem condições baixas de trânsito.
-    As maiores variações no tempo de entrega, acontecem durante o clima ensoladao.
+    1. A sazonalidade da quantidade de pedidos é diária. Há uma variação de aproximadamente 10% do número de pedidos em dia sequenciais.
+    2. As cidades do tipo Semi-Urban não possuem condições baixas de trânsito.
+    3. As maiores variações no tempo de entrega, acontecem durante o clima ensoladao.
 
 # 5. O produto final do projeto
 
